@@ -1,0 +1,23 @@
+/* div p {
+    background-color: #FFFF00;
+    color: #DF0901;
+    font-size: 20px;
+    text-align: ;
+} */
+
+/* or */
+
+.container .text {
+    background-color: #FFFF00;
+    color: #DF0901;
+    font-size: 20px;
+    text-align: center; 
+}
+
+/* Below are some other possible descendant combinators:
+
+div p
+div .text
+.container p
+
+*/
